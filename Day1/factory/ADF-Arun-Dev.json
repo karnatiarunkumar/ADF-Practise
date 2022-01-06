@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Arun-Dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba1eab9b-a931-46fd-ab59-4128d6b7aebc",
+		"tenantId": "125655d9-0c2c-464b-acc3-3274573ebf26"
+	}
+}
